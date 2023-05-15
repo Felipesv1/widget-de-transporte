@@ -315,12 +315,11 @@ footer .icons_call img:hover {
     width: 100px;
   }
   main .info_driver .driver span {
-  
-  position: initial;
+    position: initial;
   }
 
   main .info_driver .driver p {
-   position: initial;
+    position: initial;
   }
 
   main .info_driver .car {
